@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="app_name">Aplikacja testowa</string>
+    <string name="action_settings">Settings</string>
+    <string name="createapplication">Utwórz zgłoszenie</string>
+    <string name="viewmap">Wyświetl mapę</string>
+    <string name="insert_description">Wprowadź opis</string>
+    <string name="submit_application">Potwierdź zgłoszenie</string>
+    <string name="capture_photo">Zrób zdjęcie</string>
+    <string name="no_camera">Zrób zdjęcie \n (Brak aparatu)</string>
+
+</resources>
